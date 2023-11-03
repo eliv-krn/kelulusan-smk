@@ -1,0 +1,19 @@
+[06-Jul-2017 14:03:05 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:03:06 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:05:52 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:05:52 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:07:23 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:07:23 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:08:25 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:08:25 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:20:11 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:20:11 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:22:58 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 72
+[06-Jul-2017 14:22:58 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 77
+[06-Jul-2017 14:24:02 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 71
+[06-Jul-2017 14:24:02 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 76
+[06-Jul-2017 14:25:06 UTC] PHP Notice:  Undefined index: n_kejuruan in /home/u0667557/public_html/pengumuman/index.php on line 71
+[06-Jul-2017 14:25:06 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 76
+[06-Jul-2017 14:26:00 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 75
+[06-Jul-2017 14:26:44 UTC] PHP Notice:  Undefined index: status in /home/u0667557/public_html/pengumuman/index.php on line 75
+[24-Apr-2019 22:29:59 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/u5248801/public_html/kelulusan/index.php on line 50
